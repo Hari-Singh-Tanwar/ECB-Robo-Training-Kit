@@ -10056,7 +10056,7 @@
 				)
 				(uuid "a50b6348-114b-48e0-9c38-b28ddeeb0daf")
 			)
-			(table_cell "Hall Effect"
+			(table_cell "LDR"
 				(exclude_from_sim no)
 				(at 199.39 134.62 0)
 				(size 21.59 2.54)
@@ -10124,7 +10124,7 @@
 				)
 				(uuid "4afaad80-3950-4813-9d2c-d88194c871f4")
 			)
-			(table_cell "LDR"
+			(table_cell "Hall Effect"
 				(exclude_from_sim no)
 				(at 199.39 139.7 0)
 				(size 21.59 2.54)
@@ -10423,7 +10423,7 @@
 		)
 		(uuid "4636c0d5-bea0-4a3c-a2cb-1e5af9453036")
 	)
-	(label "A0"
+	(label "A2"
 		(at 154.94 44.45 0)
 		(effects
 			(font
@@ -10473,7 +10473,7 @@
 		)
 		(uuid "573ce3b3-3c5f-4e9f-8bca-1fe126b636b2")
 	)
-	(label "A2"
+	(label "A0"
 		(at 119.38 43.18 0)
 		(effects
 			(font
@@ -12430,7 +12430,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated"
-			(at 55.88 110.49 0)
+			(at 64.008 122.936 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16278,7 +16278,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "RGB led"
+		(property "Value" "RGB"
 			(at 120.65 161.2899 90)
 			(effects
 				(font
